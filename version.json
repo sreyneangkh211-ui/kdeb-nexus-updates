@@ -1,6 +1,4 @@
 {
   "version": "v1.0.9",
-  "download_url": "https://github.com/sreyneangkh211-ui/kdeb-nexus-updates/releases/download/v1.0.9/update.zip",
-  "changelog": "- Added Facebook Dashboard scanner\n- Fixed threads overlapping bug\n- Improved app stability",
-  "mandatory": false
+  "download_url": "https://github.com/sreyneangkh211-ui/kdeb-nexus-updates/releases/download/v1.0.9/update.zip"
 }
